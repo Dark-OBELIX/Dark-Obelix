@@ -15,6 +15,4 @@ Hi, my name is Hugo.<br>I'm an embedded developer with experience at Thales Mér
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Obelix&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dark-Obelix&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
