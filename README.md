@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 # 💫 About Me:
 Hi, my name is Hugo.<br>I'm an embedded developer with experience at Thales Mérignac and LABRI.<br>I'm currently studying at CESI Bordeaux.
