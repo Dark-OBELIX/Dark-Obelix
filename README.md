@@ -1,5 +1,3 @@
-https://makerworld.com/fr/models/13806?from=search#profileId-129851
-
 ## Hello there 👋
 
 # 💫 About Me:
